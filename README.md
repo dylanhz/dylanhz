@@ -7,7 +7,7 @@
 - 🐶 I'm currently a master's student working on graph neural networks.
 - 👀 I'm interested in 💻coding, 📱3C, 🎮gaming, 💪fitness.
 - 💬 Ask me about anything [here](https://github.com/dylanhz/dylanhz/issues).
-- 📫 How to reach me: dylan_hz@foxmail.com
+- 📫 How to reach me: dylanhz@163.com
 
 ![](https://komarev.com/ghpvc/?username=dylanhz)
 
